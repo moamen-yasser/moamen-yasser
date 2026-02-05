@@ -75,7 +75,4 @@
 ---
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moamen-yasser&theme=github_dark)
-
----
-
-![Snake Animation](https://raw.githubusercontent.com/moamen-yasser/moamen-yasser/output/snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/moamen-yasser/output/github-contribution-grid-snake-dark.svg)
