@@ -2,12 +2,12 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-<h1 align="center">Hi, I'm Moamen Yasser 👋</h1>
+<h1 align="center">Hi, I'm Moamen Yasser </h1>
 <h2 align="center">Software Engineer | MERN Stack Developer</h2>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&color=30F050&center=true&vCenter=true&width=500&height=70&pause=2000&lines=Full+Stack+MERN+Developer;UI%2FUX+Designer;Mobile+App+Developer;Building+Scalable+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&color=30F050&center=true&vCenter=true&width=700&height=70&pause=2000&lines=MERN+Stack+Developer;Teaching+Assistant;CEO+%26+Co-Founder+of+Spark;CTO+of+Blore+Agency;Building+Scalable+Software+Solutions)
 
 </div>
 
