@@ -18,34 +18,41 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- MERN Stack Developer  
-- Mobile Apps (React Native)  
-- Backend APIs & SaaS Systems  
-- AI Integrations  
-- Startup Product Builder  
+Passionate Front-End / MERN Stack Developer with 2+ years of experience building dynamic, user-friendly web applications using React and modern front-end technologies. I specialize in turning complex requirements into clean, responsive, and intuitive interfaces that deliver seamless user experiences.
+
+- MERN Stack & Front-End Development (React, JavaScript ES6+)
+- UI implementation with Tailwind CSS
+- State management using Redux
+- Performance optimization & reusable components
+- Scalable APIs & SaaS-ready systems
+- Startup-focused product builder
+- Continuous learner staying up-to-date with modern tech trends
+
+I enjoy collaborating in fast-paced environments, solving challenging problems, and delivering high-quality solutions that exceed expectations.
 
 ---
+
 
 ### 🌐 Connect With Me
 
 <p align="left">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:moamenyasser920@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/moamen-yasser-dev">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 
-<a href="https://twitter.com">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+<a href="https://www.facebook.com/momen.elkang">
+<img src="https://skillicons.dev/icons?i=facebook" height="45"/></a>
 
-<a href="https://discord.com">
+<a href="https://discord.com/moamenyasser6538">
 <img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
 
-<a href="https://youtube.com">
-<img src="https://skillicons.dev/icons?i=youtube" height="45"/></a>
+<a href="https://www.kaggle.com/moamenyasser000">
+<img src="https://skillicons.dev/icons?i=kaggle" height="45"/></a>
 
 </p>
 
