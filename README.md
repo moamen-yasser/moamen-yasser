@@ -103,9 +103,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-<p align="left">
-    <img src="https://streak-stats.demolab.com/?user=moamen-yasser&theme=highcontrast" height="135"/>
-</p>
 
   <img src="https://github-profile-trophy-ahmed.vercel.app/?username=moamen-yasser&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
 
