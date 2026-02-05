@@ -59,13 +59,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=moamen-yasser&show_icons=true&theme=github_dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamen-yasser&layout=compact&theme=github_dark"/>
-
-</p>
+<p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moamen-yasser&theme=github_dark" height="176"/> &nbsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moamen-yasser&theme=github_dark" height="176"/>
+ </p>
 
 ---
 
