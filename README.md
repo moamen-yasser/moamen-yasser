@@ -35,24 +35,29 @@ I enjoy collaborating in fast-paced environments, solving challenging problems, 
 ---
 
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="left">
 
-<a href="mailto:moamenyasser920@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+  <a href="mailto:moamenyasser920@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/moamen-yasser-dev">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://www.linkedin.com/in/moamen-yasser-dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"/>
+  </a>
 
-<a href="https://www.facebook.com/momen.elkang">
-<img src="https://skillicons.dev/icons?i=facebook" height="45"/></a>
+  <a href="https://www.facebook.com/momen.elkang" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="45"/>
+  </a>
 
-<a href="https://discord.com/moamenyasser6538">
-<img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
+  <a href="https://discord.com/users/moamenyasser6538" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45"/>
+  </a>
 
-<a href="https://www.kaggle.com/moamenyasser000">
-<img src="https://skillicons.dev/icons?i=kaggle" height="45"/></a>
+  <a href="https://www.kaggle.com/moamenyasser000" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle" height="45"/>
+  </a>
 
 </p>
 
