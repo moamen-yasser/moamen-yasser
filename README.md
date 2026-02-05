@@ -48,7 +48,7 @@ I enjoy collaborating in fast-paced environments, solving challenging problems, 
   </a>
 
    <a href="https://www.facebook.com/momen.elkang" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" alt="Facebook" height="45"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" alt="Facebook" height="45" style="fill:#1877F2"/>
   </a>
 
   <a href="https://discord.com/users/moamenyasser6538" target="_blank">
@@ -56,7 +56,7 @@ I enjoy collaborating in fast-paced environments, solving challenging problems, 
   </a>
 
   <a href="https://wa.me/01110373469" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" height="45"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" height="45" style="fill:#25D366"/>
   </a>
 
 </p>
