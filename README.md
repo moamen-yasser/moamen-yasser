@@ -7,6 +7,11 @@
 
 </div>
 
+ <p align="left">
+    <a href="https://drive.google.com/file/d/14tOPC7InO0Kb7lejN-iwID5rlqGYftWC/view">
+      <img src="https://img.shields.io/badge/My CV-007520?style=flat&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
+  </p>
+
 ---
 
 ### 🚀 About Me
