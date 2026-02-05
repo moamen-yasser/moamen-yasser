@@ -43,19 +43,19 @@ I enjoy collaborating in fast-paced environments, solving challenging problems, 
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/moamen-yasser-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/moamen-yasser-dev">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"/>
   </a>
 
-   <a href="https://www.facebook.com/momen.elkang" target="_blank">
+   <a href="https://www.facebook.com/momen.elkang">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" alt="Facebook" height="45" style="fill:#1877F2"/>
   </a>
 
-  <a href="https://discord.com/users/moamenyasser6538" target="_blank">
+  <a href="https://discord.com/users/moamenyasser6538">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45"/>
   </a>
 
-  <a href="https://wa.me/01110373469" target="_blank">
+  <a href="https://wa.me/01110373469">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" height="45" style="fill:#25D366"/>
   </a>
 
