@@ -1,11 +1,5 @@
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=moamen-yasser&style=flat-square&color=blue"/>
-
-</p>
-
 <h1 align="center">Hi, I'm Moamen Yasser 👋</h1>
-<h2 align="center">Software Engineer | MERN Stack Developer | UI/UX Designer</h2>
+<h2 align="center">Software Engineer | MERN Stack Developer</h2>
 
 <div align="center">
 
@@ -17,12 +11,11 @@
 
 ### 🚀 About Me
 
-- 💻 MERN Stack Developer  
-- 🎨 UI/UX Designer (Figma + Tailwind)  
-- 📱 Mobile Apps (React Native)  
-- 🌐 Backend APIs & SaaS Systems  
-- 🤖 AI Integrations  
-- 🚀 Startup Product Builder  
+- MERN Stack Developer  
+- Mobile Apps (React Native)  
+- Backend APIs & SaaS Systems  
+- AI Integrations  
+- Startup Product Builder  
 
 ---
 
@@ -51,13 +44,18 @@
 
 ### 🛠 Tech Stack
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,sass,redux,docker,git,github,gitlab,figma,postman,python&perline=7"/>
 
 </p>
 
----
+<p align="left">
+    <img src="https://streak-stats.demolab.com/?user=moamen-yasser&theme=highcontrast" height="135"/>
+</p>
+
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=moamen-yasser&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
+
 
 ### 📊 GitHub Stats
 
