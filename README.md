@@ -47,16 +47,16 @@ I enjoy collaborating in fast-paced environments, solving challenging problems, 
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"/>
   </a>
 
-  <a href="https://www.facebook.com/momen.elkang" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="45"/>
+   <a href="https://www.facebook.com/momen.elkang" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" alt="Facebook" height="45"/>
   </a>
 
   <a href="https://discord.com/users/moamenyasser6538" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45"/>
   </a>
 
-  <a href="https://www.kaggle.com/moamenyasser000" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle" height="45"/>
+  <a href="https://wa.me/01110373469" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" height="45"/>
   </a>
 
 </p>
