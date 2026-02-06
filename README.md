@@ -134,15 +134,12 @@ I enjoy collaborating in fast-paced environments, solving challenging problems, 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moamen-yasser&theme=github_dark" height="176"/>
  </p>
 
-<div align="center">
+<div align="left">
 
   <!-- Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moamen-yasser&theme=github_dark" alt="Profile Summary" />
 
-  <br/><br/>
-
   <!-- Snake Contributions -->
-  ![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
-
+  ![Snake Animation](https://raw.githubusercontent.com/moamen-yasser/moamen-yasser/output/github-contribution-grid-snake-dark.svg)
 
 </div>
