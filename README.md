@@ -37,26 +37,20 @@ I enjoy collaborating in fast-paced environments, solving challenging problems, 
 
 ### Connect With Me
 
-<p align="left"> 
-  <a href="mailto:moamenyasser920@gmail.com"> 
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<div align="left">
+  <a href="mailto:moamenyasser920@gmail.com" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=gmail" width="52" height="40" alt="gmail logo"/>
   </a> 
-  <a href="https://www.linkedin.com/in/moamen-yasser-dev"> 
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a> 
-  <a href="https://www.facebook.com/momen.elkang"> 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="45" alt="facebook logo"  />
-  </a> 
-  <a href="https://discord.com/moamenyasser6538"> 
-    <img src="https://skillicons.dev/icons?i=discord" height="45"/>
-  </a> 
-  <a href="https://www.kaggle.com/moamenyasser000"> 
-    <img src="https://skillicons.dev/icons?i=kaggle" height="45"/>
-  </a> 
-  <a href="https://wa.me/01110373469" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="45" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/moamen-yasser-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="https://discord.com/users/moamenyasser6538" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/momen.elkang" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
 
 ---
 
