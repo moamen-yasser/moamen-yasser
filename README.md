@@ -142,8 +142,7 @@ I enjoy collaborating in fast-paced environments, solving challenging problems, 
   <br/><br/>
 
   <!-- Snake Contributions -->
-  <img src="https://raw.githubusercontent.com/moamen-yasser/moamen-yasser/output/github-contribution-grid-snake-dark.svg" 
-       alt="GitHub Contribution Snake" 
-       style="max-width: 100%; height: auto;" />
+  ![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
+
 
 </div>
