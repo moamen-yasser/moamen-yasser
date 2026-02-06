@@ -118,29 +118,22 @@ I enjoy collaborating in fast-paced environments, solving challenging problems, 
 <!-- Divider line -->
 <hr style="border: 1px solid #ccc; margin: 20px 0;" />
 
-### GitHub Stats
+<img src="https://streak-stats.demolab.com/?user=moamen-yasser&theme=github-dark" />
+
+<hr style="border: 1px solid #ccc; margin: 20px 0;" />
 
 <div align="left">
   <img src="https://github-profile-trophy-ahmed.vercel.app/?username=moamen-yasser&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 </div>
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moamen-yasser&theme=github_dark" height="176"/> &nbsp;
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moamen-yasser&theme=github_dark" height="176"/>
  </p>
 
----
-
-<img src="https://streak-stats.demolab.com/?user=moamen-yasser&theme=github-dark" />
-
----
-
-<img src="https://github-profile-trophy.vercel.app/?username=moamen-yasser&theme=onestar&no-frame=true&row=1&column=7"/>
-
----
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moamen-yasser&theme=github_dark)
 ![Snake Animation](https://raw.githubusercontent.com/moamen-yasser/moamen-yasser/output/github-contribution-grid-snake-dark.svg)
