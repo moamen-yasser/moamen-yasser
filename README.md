@@ -37,28 +37,25 @@ I enjoy collaborating in fast-paced environments, solving challenging problems, 
 
 ### Connect With Me
 
-<p align="left">
-
-  <a href="mailto:moamenyasser920@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45"/>
+<p align="left"> 
+  <a href="mailto:moamenyasser920@gmail.com"> 
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a> 
+  <a href="https://www.linkedin.com/in/moamen-yasser-dev"> 
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a> 
+  <a href="https://www.facebook.com/momen.elkang"> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="45" alt="facebook logo"  />
+  </a> 
+  <a href="https://discord.com/moamenyasser6538"> 
+    <img src="https://skillicons.dev/icons?i=discord" height="45"/>
+  </a> 
+  <a href="https://www.kaggle.com/moamenyasser000"> 
+    <img src="https://skillicons.dev/icons?i=kaggle" height="45"/>
+  </a> 
+  <a href="https://wa.me/01110373469" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="45" alt="whatsapp logo"  />
   </a>
-
-  <a href="https://www.linkedin.com/in/moamen-yasser-dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"/>
-  </a>
-
-   <a href="https://www.facebook.com/momen.elkang">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" alt="Facebook" height="45" style="fill:#1877F2"/>
-  </a>
-
-  <a href="https://discord.com/users/moamenyasser6538">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45"/>
-  </a>
-
-  <a href="https://wa.me/01110373469">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" height="45" style="fill:#25D366"/>
-  </a>
-
 </p>
 
 ---
