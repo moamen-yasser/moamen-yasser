@@ -59,7 +59,7 @@ I enjoy collaborating in fast-paced environments, solving challenging problems, 
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
@@ -115,7 +115,7 @@ I enjoy collaborating in fast-paced environments, solving challenging problems, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-<div>
+<div style="margin-top=20px;">
   <img src="https://github-profile-trophy-ahmed.vercel.app/?username=moamen-yasser&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
 </div>
 
