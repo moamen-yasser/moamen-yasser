@@ -11,6 +11,11 @@
 
 </div>
 
+ <p>
+    <a href="https://www.google.com.eg/search?q=moamen-yasser"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=moamen-yasser&style=flat&color=3010A0" style="height:25px; object-fit:contain;"/></a>
+  </p>
+
  <p align="left">
     <a href="https://drive.google.com/file/d/14tOPC7InO0Kb7lejN-iwID5rlqGYftWC/view">
       <img src="https://img.shields.io/badge/My CV-007520?style=flat&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
