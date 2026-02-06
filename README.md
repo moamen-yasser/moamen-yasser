@@ -140,6 +140,6 @@ I enjoy collaborating in fast-paced environments, solving challenging problems, 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moamen-yasser&theme=github_dark" alt="Profile Summary" />
 
   <!-- Snake Contributions -->
-  ![Snake Animation](https://raw.githubusercontent.com/moamen-yasser/moamen-yasser/output/github-contribution-grid-snake-dark.svg)
+  ![Snake Animation](https://raw.githubusercontent.com/Moamen-Yasser/Moamen-Yasser/output/github-contribution-grid-snake-dark.svg)
 
 </div>
